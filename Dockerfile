@@ -1,4 +1,4 @@
-FROM php:8.1-apache
+FROM wordpress:php8.1-apache
 
 ENV PORT=8080
 EXPOSE 8080
